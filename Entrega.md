@@ -149,6 +149,6 @@ A=22 B=18 C=18
 ```
 
 Referências:
-http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5645/OpenMP_Dynamic_Scheduling.pdf
-http://www.inf.ufrgs.br/~nicolas/pdf/openmp.pdf
+-http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5645/OpenMP_Dynamic_Scheduling.pdf
+-http://www.inf.ufrgs.br/~nicolas/pdf/openmp.pdf
 
